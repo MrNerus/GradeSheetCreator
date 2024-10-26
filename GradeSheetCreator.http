@@ -1,0 +1,6 @@
+@GradeSheetCreator_HostAddress = http://localhost:5167
+
+GET {{GradeSheetCreator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

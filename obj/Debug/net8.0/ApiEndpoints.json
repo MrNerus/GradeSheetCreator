@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "GradeSheetCreator.Controllers.FileController",
+    "Method": "GetFont",
+    "RelativePath": "Files/Font/{filename}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filename",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GradeSheetCreator.Controllers.FileController",
+    "Method": "GetImage",
+    "RelativePath": "Files/Image/{filename}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filename",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GradeSheetCreator.Controllers.HomeController",
+    "Method": "GetResult",
+    "RelativePath": "Result",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

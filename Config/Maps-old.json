@@ -1,0 +1,44 @@
+{
+    "StartingRow": 5,
+    "EndingRow": "EOF",
+    "Col_Name": 1,
+    "Col_SubjectCount": 2,
+    "Col_CreditScore": 3,
+    "Col_Subject1Start": 4,
+    "Offset_FullMarks": 0,
+    "Offset_PassMarks": 1,
+    "Offset_ObtainedMarks": 2,
+    "Offset_CreditScore": 3,
+    "Offset_Percent": 4,
+    "Offset_GradePoint": 5,
+    "Offset_Grade": 6,
+    "Offset_WeightedGrade": 7,
+
+    "Col_WorkingDays": 124,
+    "Col_PresentDays": 125,
+    "Col_AbsentDays": 126,
+
+    "Col_TotalCredit": 127,
+    "Col_AverageGradePoint": 128,
+    "Col_AverageGrade": 129,
+    
+    "Col_Rank": 130,
+    "Col_Remarks": 131,
+    
+    "Gap_Subject": 8,
+    "Total_Subject": 15,
+
+    "1": "Compulsory English",
+    "2": "Compulsory Nepali",
+    "3": "Social Studies",
+    "4": "Science and Technology",
+    "5": "Compulsory Mathematics",
+    "6": "Health and Physical Education",
+    "7": "Optional I - Mathematics",
+    "8": "Optional I - Economics",
+    "9": "Optional II - Computer",
+    "10": "Optional II - Accounting",
+    "11": "Optional III - Sanskrit",
+    "12": "Optional III - Newari"
+
+}

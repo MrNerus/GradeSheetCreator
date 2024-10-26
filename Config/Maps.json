@@ -1,0 +1,25 @@
+{
+    "StartingRow": 5,
+    "EndingRow": "EOF",
+    "Col_Name": 1,
+    "Col_Id": 2,
+    "Col_SubjectCount": 3,
+    "Col_CreditScore": 4,
+    "Col_Subject1Start": 5,
+
+    "Offset_CreditScore": 3,
+    "Offset_GradePoint": 5,
+    "Offset_Grade": 6,
+
+    "Col_WorkingDays": 125,
+    "Col_PresentDays": 126,
+
+    "Col_TotalCredit": 128,
+    "Col_AverageGradePoint": 129,
+    "Col_AverageGrade": 130,
+    
+    "Col_Remarks": 132,
+    
+    "Gap_Subject": 8,
+    "Total_Subject": 15
+}
