@@ -26,8 +26,10 @@ jobs:
       run: dotnet build --no-restore
     - name: Capture build output
       run: |
+        pwd
+        ls
         mkdir -p ./build-output
-        cp -R bin/Release/net8.0 ./build-output/
+        cp -R ./bin/Release/net8.0/ ./build-output/
     - name: Create artifact
       uses: actions/upload-artifact@v4
       with:
